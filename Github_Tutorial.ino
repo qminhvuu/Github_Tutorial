@@ -21,6 +21,7 @@ void setup()
 
 void loop() 
 {
+  // A random comment
   int myValue = 0;
   myValue = analogRead(A0);
   
